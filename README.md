@@ -1,2 +1,2 @@
-** Code in master branch **
+** Code in main branch **
 
